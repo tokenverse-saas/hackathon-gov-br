@@ -1,0 +1,25 @@
+{
+  "projectName": "hackathon-gov-br",
+  "projectOwner": "tokenverse-saas",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "velantic",
+      "name": "Renato Preti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91968920?v=4",
+      "profile": "https://github.com/velantic",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
