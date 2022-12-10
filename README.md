@@ -1,6 +1,6 @@
 <h1 align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src=".github/horizontal@3x.svg" width="280" />
 </h1>
@@ -280,6 +280,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/velantic"><img src="https://avatars.githubusercontent.com/u/91968920?v=4?s=100" width="100px;" alt="Renato Preti"/><br /><sub><b>Renato Preti</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=velantic" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andersonsvinnvo"><img src="https://avatars.githubusercontent.com/u/98695958?v=4?s=100" width="100px;" alt="andersonsvinnvo"/><br /><sub><b>andersonsvinnvo</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=andersonsvinnvo" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
