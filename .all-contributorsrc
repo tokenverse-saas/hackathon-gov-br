@@ -36,6 +36,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ricardo-passos",
+      "name": "Ricardo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81830062?v=4",
+      "profile": "https://github.com/ricardo-passos",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
