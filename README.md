@@ -1,6 +1,6 @@
 <h1 align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src=".github/horizontal@3x.svg" width="280" />
 </h1>
@@ -283,6 +283,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/andersonsvinnvo"><img src="https://avatars.githubusercontent.com/u/98695958?v=4?s=100" width="100px;" alt="andersonsvinnvo"/><br /><sub><b>andersonsvinnvo</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=andersonsvinnvo" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/paulo-reis7"><img src="https://avatars.githubusercontent.com/u/63323224?v=4?s=100" width="100px;" alt="Paulo Silva dos Reis"/><br /><sub><b>Paulo Silva dos Reis</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=pauloreis7" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ricardo-passos"><img src="https://avatars.githubusercontent.com/u/81830062?v=4?s=100" width="100px;" alt="Ricardo"/><br /><sub><b>Ricardo</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=ricardo-passos" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://filipemarques.dev/"><img src="https://avatars.githubusercontent.com/u/22108833?v=4?s=100" width="100px;" alt="Filipe Marques"/><br /><sub><b>Filipe Marques</b></sub></a><br /><a href="https://github.com/tokenverse-saas/hackathon-gov-br/commits?author=FilipeNMarques" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

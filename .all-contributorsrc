@@ -45,6 +45,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "FilipeNMarques",
+      "name": "Filipe Marques",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22108833?v=4",
+      "profile": "https://filipemarques.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
