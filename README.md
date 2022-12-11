@@ -53,6 +53,7 @@ Entendemos que, com as destinações dos imóveis sendo feitas em blockchain, co
   - AWS
   - Blockchain CELO
   - Solidity
+  - ERC-3643 - Permissioned Tokens
   
 
 <a id="preview"></a>
