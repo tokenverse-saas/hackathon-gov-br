@@ -49,20 +49,11 @@ Entendemos que, com as destinações dos imóveis sendo feitas em blockchain, co
 
 <h4>Smart contracts escritos em Solidity e uma plataforma proprietária de criação de nossa empresa (Tokenverse). Como evolução do projeto, recomendamos fortemente a adoção de tokens permissionados, que restringem sua transferência apenas a wallets que já tenham feito KYC/KYP, e que possam ser bloqueados/transferidos pelo administrador da plataforma.</h4>
 
-- Frontend escrito em ReactJS
-  - NextJS
-  - ChakraUI
-  - ReactQuery
-  - Ethers
   - Metamask
-  - AWS Amplify
-- Backend escrito em NestJS
-  - Prisma
-  - Ethers
-  - AWS s3, ECS, RDS com PostgreSQL
-- Blockchain CELO
-  - Alfajores Testnet
-
+  - AWS
+  - Blockchain CELO
+  - Solidity
+  
 
 <a id="preview"></a>
 
